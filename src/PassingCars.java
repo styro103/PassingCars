@@ -1,13 +1,13 @@
 /*
  * Shaun Mbateng
- * Passing Integers
+ * Passing Cars
  * This program counts the number of passing cars on the road.
  * 		(ReadMe has Full Description)
  * This program has an O(N) time complexity.
  */
 import java.util.Scanner;
 
-public class PassingIntegers 
+public class PassingCars 
 {
 	public static void main(String[] args) 
 	{
